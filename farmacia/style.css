@@ -5,7 +5,7 @@
     box-sizing: border-box;
 }
 
-#inValor, #inTempo {
+#inMedicamento, #inPrice {
     border-radius: 8px;
     border: 1px solid black;
     padding: 5px 10px;
@@ -19,7 +19,6 @@ form {
     margin: 0 auto;
     height: 100vh;
     width: auto;
-    
 }
 
 p {
@@ -27,26 +26,21 @@ p {
     margin-bottom: 5px;
 }
 
-
 div {
     display: flex;
     flex-direction: column;
     text-align: center;
     margin: 10px;
     background-color: #e6e6e6;
-    padding: 10px 35px;
+    padding: 15px 35px;
     border-radius: 8px;
 }
 
 #inSubmit {
-    background-color: #ff9edf;
+    background-color: #90e5ff;
     color: #2e2e2e;
     padding: 5px 10px;
     border-radius: 8px;
     margin-top: 8px;
 }
-
-
-
-
 
